@@ -3,7 +3,7 @@ This is a basic snake game created by me. This is my first python project
 
 this is the README.md file
 
-Hello my developer friend. Today i created my first python project which is a snake game and I am very much excited to share this simple and basic game with you.
+Hello my developer friend. Today I created my first python project which is a snake game and I am very much excited to share this simple and basic game with you.
 This is a snake game which you can play.
 The snake can be controlled by arrow keys.
 
