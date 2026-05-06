@@ -42,14 +42,4 @@ while game_is_on:
             score.game_over()
 
 
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
